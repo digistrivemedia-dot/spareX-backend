@@ -1,0 +1,7 @@
+dist
+coverage
+node_modules
+uploads
+package-lock.json
+openapi
+*.md
